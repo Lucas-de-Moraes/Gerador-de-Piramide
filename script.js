@@ -1,2 +1,5 @@
 let character = 'Hello';
-console.log(character);
+let count = 8;
+let rows = ["Naomi", "Quincy", "CamperChan"];
+let cities = ["London", "New York", "Mumbai"];
+console.log(rows);
