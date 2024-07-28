@@ -5,4 +5,4 @@
         rows.push(i);
     }
     let result = "";
-    console.log(result);
+    console.log(result)
